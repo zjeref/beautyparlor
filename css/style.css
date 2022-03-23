@@ -347,7 +347,7 @@ font-weight: 700;
 .testimonial-solid {
 padding: 50px 0 60px 0;
 margin: 0 0 0 0;
-background:#2FADDE;
+background:rgb(242, 161, 199);
 text-align: center;
 }
 .testi-icon-area {
@@ -1137,9 +1137,6 @@ border: 1px solid #e6e6e6;
 	display:block;
 	color:#fff;
 }
-.pricing-box-item.activeItem .pricing-heading h3 {
-	 
-}
 
 .pricing-box-item .pricing-heading h3 strong {
 	font-size:28px;
@@ -1383,7 +1380,6 @@ article img.pull-right, article .align-right{
 	float:right;
 	margin:5px 0 15px 15px;
 }
- ============================= */
 
 .clear-marginbot{
 	margin-bottom:0;
